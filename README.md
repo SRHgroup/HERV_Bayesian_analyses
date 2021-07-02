@@ -1,5 +1,10 @@
 # HERV_Bayesian_analyses
-Scripts and data for Bayesian analyses in HERV paper ("Human endogenous retroviruses form a reservoir of T cell targets in hematological cancers with low mutational burden")
+Scripts and data for Bayesian analyses in HERV paper:
+
+[Human endogenous retroviruses form a reservoir of T cell targets in hematological cancers with low mutational burden](https://www.nature.com/articles/s41467-020-19464-8). Nature Communications, 2020, 11(1), 5660. https://doi.org/10.1038/s41467-020-19464-8
+
+Saini, S. K., Ørskov, A. D., Bjerregaard, A.-M., Unnikrishnan, A., Holmberg-Thydén, S., Borch, A., Jensen, K. V., Anande, G., Bentzen, A. K., Marquard, A. M., Tamhane, T., Treppendahl, M. B., Gang, A. O., Dufva, I. H., Szallasi, Z., Ternette, N., Pedersen, A. G., Eklund, A. C., Pimanda, J., … Hadrup, S. R.
+
 
 ### Data
 Original data are in excel files in the folder `data/raw`. These give the number of T-cell populations recognizing HERV or viral peptides for different individuals (patients or controls), for the different HLA alleles present in those individuals.
